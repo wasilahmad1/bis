@@ -1,2 +1,2 @@
 main 
-changes made in first step in main and then pushing it in github
+deleting the changes made and then pushing it in github
